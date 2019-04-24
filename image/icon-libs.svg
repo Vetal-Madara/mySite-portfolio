@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="172" height="176" viewBox="0 0 172 176">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8740d8;
+      }
+
+      .cls-2 {
+        fill: #d7569c;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect x="65" y="66" width="101" height="93" rx="10" ry="10" class="cls-1"/>
+    <image xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA1CAMAAAAEaFkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAM1BMVEUAAAD///////////////////////////////////////////////////////////8AAAC3K8SQAAAAD3RSTlMARN13EZkiZu6IzDNVqrskwtFaAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAOtJREFUSMet1sEOhCAMBFCkgKCw/P/fqqsbhmTbzEGufUGxHdUt/e/yIuKmpcBHBw6eKyYS9r6ysEcWPpKA99UZmMMM4cGtklGKCs9VAG4WdAJyt6Dzo1RNWKaSAesoFRNCKbKwsJcW9jDmqcNoztVDHcKG0ehMaNCYpELBTt8FYswaObjt3XA1Ntc9CwnP98XyfgqvJGidSQJB6D6w4bLHDGQ24RxDC8KWxYRQayZMo/YxoWNhYOHO3iN76uCxZsA4jYUKp7xuagsrjsR3Iql59OzgVhKybwrhwpUrF9f4+7abEH8BVBjnn4oD6BhS8wTVy1kAAAAASUVORK5CYII=" x="99" y="89" width="40" height="53"/>
+    <rect x="7" y="18" width="88" height="65" rx="10" ry="10" class="cls-2"/>
+    <image xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAkCAMAAADrTAnMAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAM1BMVEUAAAD///////////////////////////////////////////////////////////8AAAC3K8SQAAAAD3RSTlMAIojMZrtEme7ddxEzVapQJqv+AAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAelJREFUSMeVVMl2wCAIdI9Lov//t1UQhDQ9lENeXAYGGDTmZdb54cy/LcSxLElPVy5VXaq18X+656fVPNC8uAV7gkObvv1GtmvGmJ4HWxC3wCzhbn8czf9gryHNy1uSfMrHUcjjiuNliDscNrdA6yr+0XLkiAK3GRxaM2JWsFmwiA7NI06qShjW9wuGnuxmkh0erP3GCY8uWW8YeIqEuy0HlMTXRadhmEcgnKkUMB1cXk03UcNMWyvG2by7Kkv4wEU4uY6GVggXSAVQxoi7qlDGlHlwC0EtR45w9y494H2B1UUaTgImXVfKozbAXe4U5rc1LsFFXjy2oT6nMR/mJA4qkx/Ahd2N+xv3EC6uFc5Bxvp6yvvLLM9j43Q3Dqn88TSwpgCXjlDuvfDfONZ+tqpM000rvP9hJA6pqB3eyc6/jcckqX4unD0F20nJBItUFCcI9OIWEMfoAkjUvNIB0E5KamvAyu/OYwG6ot3PL+JEttz5RyUI/cYMOUjAB4CdHKWdMmG/q2Japc515w2tdhm76EXraj6cLAXTLvtCOdHX+9FFLyinKleZBoHd2P5WAaZPOVdRmGU7/+JhyLRquqT2vNrGvZlZv9WaJLWmceeByx9iDbmc2XYKx1V2f7wawqoe9DZfAV9fsB8fyTeI6uZhUgAAAABJRU5ErkJggg==" x="18" y="32" width="56" height="36"/>
+  </g>
+</svg>

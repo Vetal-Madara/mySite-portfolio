@@ -1,0 +1,67 @@
+// Paste code html
+
+// <button data-target="modal1" class="btn modal-trigger">Modal</button>
+// <button data-target="modal2" class="btn modal-trigger">Modal</button>
+// <div id="modal1" class="modal">
+//     <div class="modal-content">
+//             <i class="material-icons">check</i>
+//         <h4>Message sended  successfully</h4>
+        
+//     </div>
+//     <div class="modal-footer">
+//         <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+//     </div>
+// </div>
+// <div id="modal2" class="modal">
+//     <div class="modal-content">
+//             <i class="material-icons">clear</i>
+//         <h4>Message not sended</h4>
+//         <p>Check the correctness of the entered data</p>
+        
+//     </div>
+//     <div class="modal-footer">
+//         <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+//     </div>
+// </div> 
+.modal{
+    width: 42%!important;
+    .modal-content{
+        text-align: center;
+        h4{
+            font-size: 26px;
+        }
+        color: green;
+        i{
+            font-size: 91px;
+        }
+        &:last-child{
+            color: rgb(168, 10, 10);
+        }
+    }
+    .modal-footer{
+        a{
+            &:hover{
+                color: green;
+            }
+        }
+    }
+}
+#modal2{
+    .modal-content{
+        color: rgb(168, 10, 10);
+    }
+}
+
+@media screen and (max-width: 600px){
+    .modal{
+        .modal-content{
+            h4{
+                font-size: 14px;
+                line-height: 1.5;
+                letter-spacing: 0.5px;
+            }
+        
+        }
+    }
+}
+// import 'modal-materialize';
